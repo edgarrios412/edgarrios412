@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://arka-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg" align="center" style="width: 100%" />
+<img src="https://arka-buckets.s3.us-east-2.amazonaws.com/uploads/2021/01/header_banner-6.jpg" align="center" style="height: 200px" />
 </div>  
   
 
 ### <div align="center">Soy Edgar un desarrollador Full Stack</div>  
   
 
-- 🔭 Actualmente estoy trabajando en BAIT (https://github.com/rishavanand/github-profilinator)  
+- 🔭 Actualmente estoy trabajando en BAIT (https://github.com/Rzyfront/Bait-App)  
   
 
 - 🌱 En estos momentos estoy mejorando mis habilidades y aprendiendo nuevos lenguajes y herramientas  
@@ -18,7 +18,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Mis habilidades
 <table><tr><td valign="top" width="33%">
 
 
@@ -70,7 +70,7 @@
 <br/>  
 
 
-## Connect with me  
+## Conecta conmigo 
 <div align="center">
 <a href="https://linkedin.com/in/edgarrios412" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -85,30 +85,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=edgarrios412&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=edgarrios412&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=edgarrios412&&style=flat-square" align="center" />
+</div>  
