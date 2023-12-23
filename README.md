@@ -8,10 +8,6 @@
 
 - 🌱 En estos momentos estoy mejorando mis habilidades y aprendiendo nuevos lenguajes y herramientas  
   
-
-- ⚡ Dato curioso: Mi gatita y yo programamos juntos 👨‍💻🐈  
-  
-
 <br/>  
 
 
