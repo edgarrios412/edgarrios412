@@ -6,9 +6,6 @@
 ### <div align="center">Soy Edgar un desarrollador Full Stack</div>  
   
 
-- 🔭 Actualmente estoy trabajando en BAIT (https://github.com/Rzyfront/Bait-App)  
-  
-
 - 🌱 En estos momentos estoy mejorando mis habilidades y aprendiendo nuevos lenguajes y herramientas  
   
 
